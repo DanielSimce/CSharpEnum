@@ -1,0 +1,10 @@
+c:\users\javni nabavki\documents\visual studio 2015\Projects\Enum\Enum\bin\Debug\Enum.exe
+c:\users\javni nabavki\documents\visual studio 2015\Projects\Enum\Enum\bin\Debug\Enum.pdb
+c:\users\javni nabavki\documents\visual studio 2015\Projects\Enum\Enum\obj\Debug\Enum.csprojResolveAssemblyReference.cache
+c:\users\javni nabavki\documents\visual studio 2015\Projects\Enum\Enum\obj\Debug\Enum.exe
+c:\users\javni nabavki\documents\visual studio 2015\Projects\Enum\Enum\obj\Debug\Enum.pdb
+D:\Trening C#\Repos\Enum\Enum\bin\Debug\Enum.exe
+D:\Trening C#\Repos\Enum\Enum\bin\Debug\Enum.pdb
+D:\Trening C#\Repos\Enum\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+D:\Trening C#\Repos\Enum\Enum\obj\Debug\Enum.exe
+D:\Trening C#\Repos\Enum\Enum\obj\Debug\Enum.pdb
